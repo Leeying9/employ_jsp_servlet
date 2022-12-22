@@ -8,16 +8,17 @@ JSP_Servlet上机测试题，自做答案。内附有sql文件，有原题。
 最外层根目录下有.sql数据库文件，和.word原题文件。
 原题主要内容也将附在本文末。
 
-#### 安装教程
-需要软件
-1.mysql8.0
-2.idea
+#### 需要软件
+
+1. mysql8.0
+2. idea
 
 
 #### 使用说明
 
 1. 通过idea打开项目，文件-项目结构-模块，导入pom.xml文件
-2. 编辑运行配置，选tomcat-本地，选【部署】的时候注意选择war exploded而不是war，war不能热部署
+2. 编辑运行配置，选tomcat-本地，选【部署】的时候注意选择war exploded
+
 ![1](https://foruda.gitee.com/images/1671728219281432256/ae0711d6_10574276.png "屏幕截图")
 ![2](https://foruda.gitee.com/images/1671728238969339806/ad6098bc_10574276.png "屏幕截图")
 
